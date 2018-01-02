@@ -11,7 +11,7 @@ This project is based off of the React tutorial with some enhancements.
 
 # Screenshots #
 
-https://screenshots.firefox.com/rfOa7caZiXbmoEYm/localhost
-https://screenshots.firefox.com/jKyBR9eDaWrAQZIu/localhost
-https://screenshots.firefox.com/RZVxAy7fWzLdAXNM/localhost
+- https://screenshots.firefox.com/rfOa7caZiXbmoEYm/localhost
+- https://screenshots.firefox.com/jKyBR9eDaWrAQZIu/localhost
+- https://screenshots.firefox.com/RZVxAy7fWzLdAXNM/localhost
 
