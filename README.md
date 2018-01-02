@@ -9,4 +9,9 @@ This project is based off of the React tutorial with some enhancements.
 - stores the history of moves during the game,
 - allows players to jump back in time to see older versions of the game board.
 
+# Screenshots #
+
 https://screenshots.firefox.com/rfOa7caZiXbmoEYm/localhost
+https://screenshots.firefox.com/jKyBR9eDaWrAQZIu/localhost
+https://screenshots.firefox.com/RZVxAy7fWzLdAXNM/localhost
+
